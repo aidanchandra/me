@@ -4,6 +4,13 @@
 
 This project is an example of a simple GitHub Pages landing page.
 
+---
+layout: default
+title: courses and tutorials
+nav_order: 5
+has_children: true
+---
+
 ## Features
 
 - Easy to use
